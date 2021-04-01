@@ -15,7 +15,7 @@ to initialise the project, and follow the prompts to use the course coordination
 - Console.WriteLine()
 - Console.ReadLine()
 - Trim()
-- To.Lower()
+- ToLower()
 - lists
 - lists of lists
 - boolean values
