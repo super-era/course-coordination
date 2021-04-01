@@ -12,12 +12,12 @@ This project was created using Visual Studio Code with the C# OmniSharp extensio
 to initialise the project, and follow the prompts to use the course coordination program.
 
 ## Concepts this project uses
-- Console.WriteLine()
-- Console.ReadLine()
-- Trim()
-- To.Lower()
-- List<string> (via System.Collections.Generic)
-- List<List<string>>()
+- 'Console.WriteLine()'
+- 'Console.ReadLine()'
+- 'Trim()'
+- 'To.Lower()'
+- 'List<string>' (via 'System.Collections.Generic')
+- 'List<List<string>>()'
 - boolean values
 - operators (+ etc)
 - if statements
